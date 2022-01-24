@@ -1,0 +1,10 @@
+{
+  "name": "laravel-nova-mix",
+  "version": "1.0.0",
+  "description": "Laravel Nova Mix extension for Package Development",
+  "author": "Taylor Otwell",
+  "license": "MIT",
+  "devDependencies": {
+    "laravel-mix": "^6.0.41"
+  }
+}

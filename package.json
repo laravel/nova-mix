@@ -1,7 +1,7 @@
 {
   "name": "laravel-nova-mix",
   "version": "1.0.0",
-  "description": "Laravel Nova Mix extension for Package Development",
+  "description": "Mix extension for Laravel Nova Package Development",
   "author": "Taylor Otwell",
   "license": "MIT",
   "main": "index.js",

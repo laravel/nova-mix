@@ -1,5 +1,5 @@
-let mix = require('laravel-mix')
-let webpack = require('webpack')
+const mix = require('laravel-mix');
+const webpack = require('webpack');
 
 class NovaExtension {
   name() {
@@ -29,4 +29,4 @@ class NovaExtension {
   }
 }
 
-mix.extend('nova', new NovaExtension())
+mix.extend('nova', new NovaExtension());

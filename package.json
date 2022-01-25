@@ -4,7 +4,18 @@
   "description": "Laravel Nova Mix extension for Package Development",
   "author": "Taylor Otwell",
   "license": "MIT",
-  "devDependencies": {
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laravel/nova-mix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laravel/nova-mix/issues"
+  },
+  "peerDependencies": {
     "laravel-mix": "^6.0.41"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.0"
   }
 }
